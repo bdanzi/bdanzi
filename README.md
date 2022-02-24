@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Brunella D'Anzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&hide=jupyter\%20notebook&langs_count=5&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Brunella D'Anzi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+
