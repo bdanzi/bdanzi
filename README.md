@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- VISITORS -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ilguarnieri}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bdanzi}/count.svg" /></p> 
 <br></div>
 
  <!-- FOOTER -->
