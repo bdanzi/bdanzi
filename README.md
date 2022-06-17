@@ -48,21 +48,18 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+[![](https://visitcount.itsvg.in/api?id=bdanzi&icon=0&color=6D077F)](https://visitcount.itsvg.in)
+  
+### Show some ❤️ by starring some of my repositories!
+  
+</div>
   <!--
 [![Brunella D'Anzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Brunella D'Anzi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&hide=jupyter\%20notebook&langs_count=5&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-[![](https://visitcount.itsvg.in/api?id=bdanzi&icon=0&color=6D077F)](https://visitcount.itsvg.in)
-
-
-  
-### Show some ❤️ by starring some of my repositories!
-  
-</div>
-
  <!-- FOOTER -->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=120&section=footer"/>
 
