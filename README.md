@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- INFO -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=ilGuarnieri&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&layout=compact&theme=jolly&hide_border=true&langs_count=5&title_color=B75C63&text_color=89AF70&bg_color=0d1117" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&layout=compact&hide=jupyter\%20notebook&theme=jolly&hide_border=true&langs_count=5" />
 </div>
 
 <!-- VISITORS -->
