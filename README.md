@@ -42,8 +42,9 @@ Here are some ideas to get you started:
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly" />
   
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly" />
+</div>
 
-  ### ✍️Random Dev Quote
+### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
@@ -54,13 +55,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&hide=jupyter\%20notebook&langs_count=5&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-</div>
+[![](https://visitcount.itsvg.in/api?id=bdanzi&icon=0&color=6D077F)](https://visitcount.itsvg.in)
 
-<!-- VISITORS -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bdanzi}/count.svg" /></p> 
-<br></div>
+  
+### Show some ❤️ by starring some of my repositories!
+  
+</div>
 
  <!-- FOOTER -->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=120&section=footer"/>
