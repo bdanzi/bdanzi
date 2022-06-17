@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=bdanzi&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&layout=compact&hide=jupyter\%20notebook&theme=jolly&hide_border=true" />
 
+    <img width="49%"height="auto" src="https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly"/>
+  
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly" />
+  
 [![Brunella D'Anzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Brunella D'Anzi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
