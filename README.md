@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6D077F&size=35&center=true&width=1000&lines=Downloading...)](https://git.io/typing-svg)
 
 <!-- INFO -->
+# 📊GitHub Stats :
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=bdanzi&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&hide=jupyter\%20notebook&layout=compact&theme=jolly&hide_border=true" />
