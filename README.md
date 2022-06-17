@@ -49,7 +49,10 @@ Here are some ideas to get you started:
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-[![](https://visitcount.itsvg.in/api?id=bdanzi&icon=0&color=6D077F)](https://visitcount.itsvg.in)
+<div align="center">
+								<p align="centre"><b>Visitors Count</b></p>  
+								<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bdanzi}/count.svg" /></p> 
+								</div>
   
 ### Show some ❤️ by starring some of my repositories!
   
