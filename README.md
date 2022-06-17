@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6D077F&size=35&center=true&width=1000&lines=Downloading...)](https://git.io/typing-svg)-->
 <!-- INFO -->
-## 🌐Socials
+# 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevelopingGamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunella-d-anzi)
 
 # 💻Tech Stack
