@@ -1,6 +1,6 @@
-##Hello there, I'm [Brunella D'Anzi!](https://bdanzi.github.io) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
+## Hello there, I'm [Brunella D'Anzi!](https://bdanzi.github.io) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
 
-# 💫About Me :
+# 💫About Me 
 🔭 I’m currently working on my Computational Skills.\
  🌱 I’m currently learning more about Experimental Particle Physics.\
  🤔 I’m looking for help with Exploring New Technologies.\
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%23026AA7.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊GitHub Stats :
+# 📊GitHub Stats 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=bdanzi&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&hide=jupyter\%20notebook&layout=compact&theme=jolly&hide_border=true" />
