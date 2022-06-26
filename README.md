@@ -46,19 +46,19 @@ Here are some ideas to get you started:
 
 ### :collision: Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=drifttubes_offline_analysis&theme=algolia)](https://github.com/bdanzi/drifttubes_offline_analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=drifttubes_offline_analysis&theme=jolly)](https://github.com/bdanzi/drifttubes_offline_analysis)
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=Higgs_exercise&theme=algolia)](https://github.com/bdanzi/Higgs_exercise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=Higgs_exercise&theme=jolly)](https://github.com/bdanzi/Higgs_exercise)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=bdanzi.github.io&theme=algolia)](https://github.com/bdanzi/bdanzi.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=bdanzi.github.io&theme=jolly)](https://github.com/bdanzi/bdanzi.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=ML_COURSEBARI&theme=algolia)](https://github.com/bdanzi/ML_COURSEBARI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=ML_COURSEBARI&theme=jolly)](https://github.com/bdanzi/ML_COURSEBARI)
 
 ***
 
 ### :trophy: GitHub trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bdanzi&row=2&column=3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bdanzi&row=2&column=3&theme=jolly)](https://github.com/ryo-ma/github-profile-trophy)
 
 ***
 ### ✍️ Random Dev Quote
