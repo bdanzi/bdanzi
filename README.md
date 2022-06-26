@@ -1,8 +1,8 @@
 <div align="center">  
-## Hi, I'm [Brunella D'Anzi!](https://bdanzi.github.io/#/)
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
-</div>
+##Hi, I'm [Brunella D'Anzi!](https://bdanzi.github.io)
 
+</div>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
 # 💫About Me :
 🔭 I’m currently working on my Computational Skills.\
  🌱 I’m currently learning more about Experimental Particle Physics.\
