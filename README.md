@@ -44,7 +44,15 @@ Here are some ideas to get you started:
   
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly" />
 
-### :collision: Currently working on
+	
+<!-- ### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<div align="center">
+								<p align="centre"><b>Visitors Count</b></p>  
+								<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bdanzi}/count.svg" /></p> 
+								</div> -->
+  ### :collision: Currently working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=drifttubes_offline_analysis&theme=jolly)](https://github.com/bdanzi/drifttubes_offline_analysis)
 	
@@ -64,15 +72,6 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-	
-<!-- ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-<div align="center">
-								<p align="centre"><b>Visitors Count</b></p>  
-								<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bdanzi}/count.svg" /></p> 
-								</div> -->
-  
 <h4 align="center">If you like a repository, don't forget to leave a star! :star:</h4>
   
 </div>
