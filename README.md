@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly" />
   
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly" />
-</div>
+
 	
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=bdanzi&row=2&column=3&theme=jolly)](https://github.com/ryo-ma/github-profile-trophy)
 
 ***
-<div align="center">  
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
