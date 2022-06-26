@@ -44,7 +44,16 @@ Here are some ideas to get you started:
   
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly" />
 
+### :collision: Currently working on
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=drifttubes_offline_analysis&theme=algolia)](https://github.com/bdanzi/drifttubes_offline_analysis)
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=Higgs_exercise&theme=algolia)](https://github.com/bdanzi/Higgs_exercise)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=bdanzi.github.io&theme=algolia)](https://github.com/bdanzi/bdanzi.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=ML_COURSEBARI&theme=algolia)](https://github.com/bdanzi/ML_COURSEBARI)
+	
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
