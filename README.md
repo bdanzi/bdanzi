@@ -5,7 +5,7 @@
  🌱 I’m currently learning more about Experimental Particle Physics.\
  🤔 I’m looking for help with Exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
- 📫 How to reach me: Email - ary.d.anzi@gmail.com brunella.danzi@uniba.it brunella.danzi@ba.infn.it \
+ 📫 How to reach me: Email - ary.d.anzi@gmail.com | brunella.danzi@uniba.it | brunella.danzi@ba.infn.it \
  😄 Pronouns: She/Her\
  ⚡ Fun fact: My favourite song is Giovani Wannabe by Pinguini Tattici Nuclear.
 
