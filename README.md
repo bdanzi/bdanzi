@@ -53,7 +53,14 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=bdanzi.github.io&theme=algolia)](https://github.com/bdanzi/bdanzi.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=ML_COURSEBARI&theme=algolia)](https://github.com/bdanzi/ML_COURSEBARI)
-	
+
+***
+
+### :trophy: GitHub trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bdanzi&row=2&column=3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+***
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
