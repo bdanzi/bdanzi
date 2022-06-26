@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 								<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bdanzi}/count.svg" /></p> 
 								</div> -->
   
-### Show some ❤️ by starring some of my repositories!
+<h4 align="center">If you like a repository, don't forget to leave a star! :star:</h4>
   
 </div>
   <!--
