@@ -1,5 +1,5 @@
 <div align="center">  
-##Hi, I'm [Brunella D'Anzi!](https://bdanzi.github.io)
+# Hi, I'm [Brunella D'Anzi!](https://bdanzi.github.io)
 
 </div>
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
