@@ -1,7 +1,6 @@
-<div align="center">  
-# Hi, I'm [Brunella D'Anzi!](https://bdanzi.github.io)
 
-</div>
+<center> # Hi, I'm [Brunella D'Anzi!](https://bdanzi.github.io)</center>
+
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
 # 💫About Me :
 🔭 I’m currently working on my Computational Skills.\
