@@ -1,7 +1,7 @@
 <h2 align="center"> Hello there, I'm <a href="https://bdanzi.github.io/">Brunella D'Anzi</a>! </br></br>
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
 
-# :information_source About Me 
+# ℹ️ About Me 
 🔭 I’m currently working on my Computational Skills.\
  🌱 I’m currently learning more about Experimental Particle Physics.\
  🤔 I’m looking for help with Exploring New Technologies.\
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6D077F&size=35&center=true&width=1000&lines=Downloading...)](https://git.io/typing-svg)-->
 <!-- INFO -->
-# 🌐Socials
+# 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevelopingGamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunella-d-anzi)
 
-# 💻Tech Stack
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%23026AA7.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊GitHub Stats 
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly" />
 
 
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 	
-<!-- ### 😂Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <div align="center">
