@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=180&section=header"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=180&section=header"/> 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6D077F&size=35&center=true&width=1000&lines=Downloading...)](https://git.io/typing-svg)-->
 <!-- INFO -->
