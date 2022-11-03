@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- HEADER -->
- <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=180&section=header&text=Brunella D'Anzi&fontSize=25&fontColor=6D077F&animation=twinkling&fontAlignY=35"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=180&section=header"/> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%6D077F&size=35&center=true&width=1000&lines=Downloading...)](https://git.io/typing-svg)-->
 <!-- INFO -->
@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 [![Brunella D'Anzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdanzi&hide=stars&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Brunella D'Anzi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bdanzi&&langs_count=5&v=2&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdanzi&hide=jupyter\%20notebook&langs_count=5&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 -->
  <!-- FOOTER -->
