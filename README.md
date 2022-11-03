@@ -1,7 +1,7 @@
 <h2 align="center"> Hello there, I'm <a href="https://bdanzi.github.io/">Brunella D'Anzi</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </br></br>
 
 # ℹ️ About Me 
-🔭 I’m currently working on my Computational Skills.\
+🔭 I’m currently working on improving my Computational Skills.\
  🌱 I’m currently learning more about Experimental Particle Physics.\
  🤔 I’m looking for help with Exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
