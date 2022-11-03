@@ -1,5 +1,4 @@
-<h2 align="center"> Hello there, I'm <a href="https://bdanzi.github.io/">Brunella D'Anzi</a>! </br></br>
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>
+<h2 align="center"> Hello there, I'm <a href="https://bdanzi.github.io/">Brunella D'Anzi</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </br></br>
 
 # ℹ️ About Me 
 🔭 I’m currently working on my Computational Skills.\
