@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=180&text=Brunella D'Anzi&fontSize=25&fontColor=6D077F&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E033FF&height=180&section=header"/> 
 
 <h2 align="center"> Hello there, I'm <a href="https://bdanzi.github.io/">Brunella D'Anzi</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </br></br>
 
