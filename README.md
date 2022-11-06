@@ -5,7 +5,7 @@
 
 # ℹ️ About Me 
  🔭 I’m currently working on improving my Computational Skills.\
- 🌱 I’m currently learning more about Experimental Particle Physics as a PhD student .\
+ 🌱 I’m currently learning more about Experimental Particle Physics as a PhD student. \
  🤔 I’m looking for help with Exploring New Technologies in Deep Learning and Machine Learning areas.\
  💬 Ask me about any tech-related stuff.\
  📫 How to reach me: Email - ary.d.anzi@gmail.com | brunella.danzi@uniba.it | brunella.danzi@ba.infn.it \
