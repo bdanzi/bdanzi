@@ -55,6 +55,8 @@ Here are some ideas to get you started:
   ### :collision: Currently working on
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CMSTrackingPOG&repo=MuonAnalysis-MuonAnalyzer&theme=jolly)](https://github.com/CMSTrackingPOG/MuonAnalysis-MuonAnalyzer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi@repo=Higgs_exercise&theme=jolly)](https://github.com/bdanzi/Higgs_exercise)
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdanzi&repo=drifttubes_offline_analysis&theme=jolly)](https://github.com/bdanzi/drifttubes_offline_analysis)
 	
