@@ -4,13 +4,13 @@
 <h2 align="center"> Hello there, I'm <a href="https://web2.ba.infn.it/bdanzi//">Brunella D'Anzi</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </br></br>
 
 # ℹ️ About Me 
-🔭 I’m currently working on improving my Computational Skills.\
- 🌱 I’m currently learning more about Experimental Particle Physics.\
- 🤔 I’m looking for help with Exploring New Technologies.\
+ 🔭 I’m currently working on improving my Computational Skills.\
+ 🌱 I’m currently learning more about Experimental Particle Physics as a PhD student .\
+ 🤔 I’m looking for help with Exploring New Technologies in Deep Learning and Machine Learning areas.\
  💬 Ask me about any tech-related stuff.\
  📫 How to reach me: Email - ary.d.anzi@gmail.com | brunella.danzi@uniba.it | brunella.danzi@ba.infn.it \
  😄 Pronouns: She/Her\
- ⚡ Fun fact: My favourite song is Giovani Wannabe by Pinguini Tattici Nuclear.
+ ⚡ Fun fact: I would like to have a lovely dog, but since 20 years I just have my puppet Bubi.
 
 <!--
 **bdanzi/bdanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
